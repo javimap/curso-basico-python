@@ -1,3 +1,8 @@
+# Curso Básico de Python para Científicos
+
+Este curso pretende ser una introducción interactiva para aprender a programar
+python rápidamente y comenzar a utilizarlo como herramienta para la investigación.
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
